@@ -7,7 +7,7 @@ Alpha-Omega comes from greek alphabetical system. Alpha is the beginning and Ome
 
 
 
-##Examples
+## Examples
 ### Example 1 - Car insurance:
 You want to find a car insurance for your car.
 **Approach I**
@@ -27,9 +27,9 @@ You feel passionate about some social movement: for example you want to invest y
 
 
 
-##Alpha-Omega security model
+## Alpha-Omega security model
 
-##Models
+## Models
 
 
 
