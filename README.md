@@ -26,6 +26,8 @@ You feel passionate about some social movement: for example you want to invest y
 7. You look at analytics and report about how well your cluster is doing.
 8. End of phase 2.
 
+Based on how much money your investments and community pot has, you may recieve some funds back / have a free year of insurance.
+
 
 
 ## Alpha-Omega security model
